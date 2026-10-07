@@ -17,6 +17,12 @@ Paket draf materi untuk mahasiswa baru (level dasar).
 | `worksheet/` | Lembar kerja mahasiswa |
 | `template/` | Template BMC, proposal, pitch deck |
 | `asesmen/` | Rubrik UTS/UAS |
+| `ppt/` | Presentasi PowerPoint per Sub-CPMK |
+
+## Presentasi PPT
+| File | Sub-CPMK | Isi |
+|---|---|---|
+| `ppt/PPT01_SubCPMK_1_1_Entrepreneur_Technopreneur_Bisnis_Digital.pptx` | 1.1 | Membedakan entrepreneur, technopreneur, dan bisnis digital (18 slide) |
 
 ## Output akhir mahasiswa
 Business Model Canvas + proposal usaha singkat (5–8 halaman) + pitch 5–7 menit.
