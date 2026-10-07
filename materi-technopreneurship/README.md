@@ -25,5 +25,7 @@ Paket draf materi untuk mahasiswa baru (level dasar).
 | `ppt/PPT01_SubCPMK_1_1_Entrepreneur_Technopreneur_Bisnis_Digital.pptx` | 1.1 | Membedakan entrepreneur, technopreneur, dan bisnis digital (18 slide) |
 | `ppt/PPT02_SubCPMK_1_2_Platform_Fintech_AI_IoT.pptx` | 1.2 | Peran platform, fintech, AI, dan IoT dalam bisnis (18 slide) |
 
+**Gaya bahasa PPT:** humanis dan mudah dipraktikkan—hindari jargon mesin; utamakan contoh sehari-hari, pertanyaan reflektif, dan langkah yang bisa dikerjakan mahasiswa.
+
 ## Output akhir mahasiswa
 Business Model Canvas + proposal usaha singkat (5–8 halaman) + pitch 5–7 menit.
