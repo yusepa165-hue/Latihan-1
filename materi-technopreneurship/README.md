@@ -17,6 +17,15 @@ Paket draf materi untuk mahasiswa baru (level dasar).
 | `worksheet/` | Lembar kerja mahasiswa |
 | `template/` | Template BMC, proposal, pitch deck |
 | `asesmen/` | Rubrik UTS/UAS |
+| `pdf/` | Versi PDF siap cetak/unduh |
+
+## File PDF
+| File | Isi | Halaman |
+|---|---|---|
+| `pdf/00_paket_lengkap.pdf` | Semua materi digabung | ±46 |
+| `pdf/01_kerangka_kurikulum.pdf` | Silabus, matriks, RPS | ±10 |
+| `pdf/02_naskah_kuliah.pdf` | Naskah P01–P16 | ±28 |
+| `pdf/03_worksheet_template_asesmen.pdf` | Worksheet, template, rubrik | ±10 |
 
 ## Output akhir mahasiswa
 Business Model Canvas + proposal usaha singkat (5–8 halaman) + pitch 5–7 menit.
